@@ -31,14 +31,18 @@
   },
   "languages": [
     "Português BR",
-    "Inglês ",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (Intermediário) "
+  
   ],
   "portfolio": [
     {
+      "name":"Meu próprio site portfólio",
+      "url":"http://marcuslins.com.br",
+      "github":false
+    },
+    {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "url": "https://github.com/CBPablo/dioPokeAPI",
       "github": true
     },
     {
